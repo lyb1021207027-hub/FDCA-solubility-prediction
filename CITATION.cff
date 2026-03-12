@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the software and the associated paper."
 title: "FDCA Solubility Regression Prediction"
 authors:
-  - family-names: "Replace"
-    given-names: "With Your Name"
+  - family-names: "L"
+    given-names: "YB"
 version: "1.0.0"
 date-released: 2026-03-12
 license: MIT
