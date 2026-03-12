@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the software and the associated paper."
 title: "FDCA Solubility Regression Prediction"
 authors:
-  - family-names: "L"
-    given-names: "YB"
+  - family-names: "Liu"
+    given-names: "Yanbo"
 version: "1.0.0"
 date-released: 2026-03-12
 license: MIT
-repository-code: "https://github.com/your-username/your-repository"
+repository-code: "https://github.com/lyb1021207027-hub/FDCA-solubility-prediction"
 abstract: "Code and supporting files for saved-model prediction of FDCA solubility using a trained TabPFN/AutoGluon regression model."
