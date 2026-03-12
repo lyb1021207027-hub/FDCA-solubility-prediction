@@ -1,0 +1,13 @@
+name: fdca-solubility
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - openpyxl
+  - scikit-learn
+  - pip
+  - pip:
+      - autogluon.tabular
